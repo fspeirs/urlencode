@@ -1,9 +1,26 @@
 //
-//  URLEncoder.m
-//  URLEncode
+//  URLEconder
+//  Part of URLEncode.framework
 //
 //  Created by Fraser Speirs on 06/12/2007.
-//  Copyright 2007 __MyCompanyName__. All rights reserved.
+//  Copyright 2007 Connected Flow - http://www.connectedflow.com - All rights reserved.
+//  Permission to use this code:
+//
+//  Feel free to use this code in your software, either as-is or 
+//  in a modified form. Either way, please include a credit in 
+//  your software's "About" box or similar, mentioning at least 
+//  Connected Flow.
+//
+//  Permission to redistribute this code:
+//
+//  You can redistribute this code, as long as you keep these 
+//  comments. You can also redistribute modified versions of the 
+//  code, as long as you add comments to say that you've made 
+//  modifications (keeping these original comments too).
+//
+//  If you do use or redistribute this code, an email would be 
+//  appreciated, just to let me know that people are finding my 
+//  code useful. You can reach me at info@connectedflow.com
 //
 
 #import "URLEncoder.h"
